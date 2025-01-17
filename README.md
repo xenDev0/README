@@ -1,7 +1,7 @@
 # README
 # Üdvözöllek a Portfóliómban!
 
-Helló, [Neved]!  
+Helló!  
 Webfejlesztő és dizájner vagyok, aki a kreatív weboldalak kialakításában hisz. Bár tapasztalt vagyok az applikációfejlesztésben is, a weboldalak esztétikus és funkcionális kialakítása áll a fókuszomban.
 
 ## Technológiák és Eszközök
